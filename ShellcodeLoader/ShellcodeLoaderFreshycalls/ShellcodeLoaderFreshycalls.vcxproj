@@ -148,6 +148,8 @@
   <ItemGroup>
     <ClInclude Include="function_result.hpp" />
     <ClInclude Include="native.hpp" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="resource1.h" />
     <ClInclude Include="syscall.hpp" />
     <ClInclude Include="utils.hpp" />
   </ItemGroup>
